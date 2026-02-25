@@ -35,10 +35,13 @@ Du arbeitest strukturiert mit Branches, führst saubere Commits durch und kannst
 
 5. **GIT-History analysieren (4 Punkte)**
 Schaue dir nun die komplette Commit-History an. Denn im aktuellen Projekt funktioniert die Navigation nicht korrekt. Finde heraus, in welchem Commit der Fehler eingeführt werde. Beschreibe kurz / gibt die Commit-ID an. Mit welchem Befehl hast du dies herausgefunden? Wie viele Commits wurden insgesamt in diesem Projekt erstellt?
+Bei add wurde der Link entfernt von beiden a-tags: 8be24db117802b8ebe2f24ea2d230426244d5a73
+Ich habe mit die History angeschaut.
+Es sollten 10 Commits sein
 
 ----------------------- 
 
-Du hast das Quiz nun erfolgreich abgeschlossen. Gib HIER den Link zu deinem geforkten Repository an: _____________________
+Du hast das Quiz nun erfolgreich abgeschlossen. Gib HIER den Link zu deinem geforkten Repository an: (https://github.com/whitexwolve/git-quiz-3bhitm.git)
 
 Gib anschließend dieses ANGABE-File bei MOODLE ab!
 
